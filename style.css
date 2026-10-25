@@ -4,13 +4,13 @@ body {
   max-width: 600px;
   margin: 40px auto;
   padding: 0 16px;
-  background: #ffffff;
-  color: #222222;
+  background: #f39f9f;
+  color: #921414;
 }
 
 body.dark {
-  background: #1e1e1e;
-  color: #f0f0f0;
+  background: #884d4d;
+  color: #463c3c;
 }
 
 form {
@@ -28,16 +28,16 @@ button {
 }
 
 #error {
-  color: red;
+  color: rgb(81, 255, 0);
 }
 
 .word-block {
-  border: 1px solid #aaa;
+  border: 1px solid #e9a7a7;
   border-radius: 6px;
   padding: 12px;
   margin-top: 16px;
 }
 
 .saved {
-  background: #fff3b0;
-  color: #222222;
+  background: #bbad5e;
+  color: #a01919;
