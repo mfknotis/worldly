@@ -1,0 +1,43 @@
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 16px;
+  background: #ffffff;
+  color: #222222;
+}
+
+body.dark {
+  background: #1e1e1e;
+  color: #f0f0f0;
+}
+
+form {
+  margin: 16px 0;
+}
+
+input {
+  padding: 8px;
+  width: 65%;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#error {
+  color: red;
+}
+
+.word-block {
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  padding: 12px;
+  margin-top: 16px;
+}
+
+.saved {
+  background: #fff3b0;
+  color: #222222;
